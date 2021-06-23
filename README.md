@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yaroslav Pitsur
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Postgres
+- 🌱 I’m currently learning PWA
 - 📫 How to reach me yaroslav.pitsur@gmail.com
 
 <!---
